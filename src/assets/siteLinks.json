@@ -10,9 +10,9 @@
     "link": "https://taikula.co/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "免费音乐",
-    "link": "https://freepd.com/"
+    "icon": "LaptopCode",
+    "name": "GPT免梯网址",
+    "link": "https://chat123.club/"
   },
   {
     "icon": "Compass",
@@ -21,17 +21,17 @@
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "个人博客",
+    "link": "https://ye1031.asia"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "下单网址",
+    "link": "https://sophio.top/"
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "自建GPT",
+    "link": "https://azuran.top/"
   }
 ]
